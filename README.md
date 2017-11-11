@@ -1,6 +1,6 @@
 # Observatory
-Meteor 1.6 Tests based on Velocity and Meteor-Coverage for realtime, in browser testing and coverage of client, server, and GraphQL code using Jasmine.
+Observatory is a complete Meteor 1.6+ testing and coverage suite based on Velocity and meteor-coverage.  Designed for drop-in integration, it will run Jasmine tests and report in real time to the browser as code changes the pass/fail of tests and code coverage of both client, server, and GraphQL Gateway layers.
 
 Place holder.
 
-The best way to view Meteor.
+"The best way to watch Meteor"

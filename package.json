@@ -1,0 +1,25 @@
+{
+  "name": "meteor-observatory",
+  "version": "0.0.1",
+  "description": "Observatory is a complete Meteor 1.6+ testing and coverage suite based on Velocity and meteor-coverage.  Designed for drop-in integration, it will run Jasmine tests and report in real time to the browser as code changes the pass/fail of tests and code coverage of both client, server, and GraphQL Gateway layers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maka-io/Observatory.git"
+  },
+  "keywords": [
+    "Jasmine",
+    "Meteor",
+    "Coverage",
+    "React"
+  ],
+  "author": "maka-io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maka-io/Observatory/issues"
+  },
+  "homepage": "https://github.com/maka-io/Observatory#readme"
+}
